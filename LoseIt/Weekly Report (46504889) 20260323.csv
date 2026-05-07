@@ -1,0 +1,56 @@
+Date,Name,Icon,Type,Quantity,Units,Calories,Deleted,Fat (g),Protein (g),Carbohydrates (g),Saturated Fat (g),Sugars (g),Fiber (g),Cholesterol (mg),Sodium (mg)
+03/29/2026,Chai Latte,Recipe,Breakfast,1.0,Serving,150,0,5.75,5,18.50,3.75,18,0,25,85
+03/28/2026,Bacon,Bacon,Breakfast,6.0,Slices,270,0,21,15,0,7.50,0,0,45,840
+03/28/2026,Egg Quiche,Quiche,Breakfast,1.0,Piece,230,0,28,22,5.30,n/a,n/a,n/a,n/a,n/a
+03/28/2026,Mimosa,OrangeJuice,Breakfast,12.0,Ounces,260,0,0,n/a,70,0,54,n/a,0,20
+03/28/2026,Lobster Tails,Lobster,Lunch,12.0,Ounces,480,0,0,72,4,0,0,0,240,1328
+03/28/2026,Fried Chicken Wings,Chicken,Dinner,8.0,Pieces,824,0,56.72,67.4,6.8,15.51,n/a,0,208,200
+03/28/2026,Chai Latte,Recipe,Snacks,1.0,Serving,150,0,5.75,5,18.50,3.75,18,0,25,85
+03/27/2026,Chai Latte,Recipe,Breakfast,1.0,Serving,150,0,5.75,5,18.50,3.75,18,0,25,85
+03/27/2026,Banana,Banana,Breakfast,1.0,Each,100,0,0.30,1.10,23.10,n/a,n/a,n/a,n/a,n/a
+03/27/2026,"Taquitos, Chicken, Corn Tortillas",Taco,Lunch,4.0,Each,373,0,17.33,17.33,38.67,2.67,0,2.67,40,813.33
+03/27/2026,"Beef, Top Sirloin Steak, Lean, Cooked",Beef,Dinner,12.0,Ounces,874,0,53.58,91.17,0,21.9,0,0,282.36,183.70
+03/27/2026,Lobster Tails,Lobster,Dinner,6.0,Ounces,240,0,0,36,2,0,0,0,120,664
+03/27/2026,"Potatoes, White, w/ Skin, Baked, 2 1/4"" - 3 1/4""",Potato,Dinner,1.0,Each,163,0,0.26,3.63,36.47,0.3,2.40,3.63,0,12.11
+03/27/2026,"Wine, Red",WineRed,Snacks,36.0,Fluid ounces,900,0,0,0.74,27.62,0,6.56,0,0,42.34
+03/27/2026,Homemade Chocolate Chips Cookies,Cookie,Snacks,6.0,Pieces,600,0,n/a,6,90,n/a,n/a,n/a,n/a,n/a
+03/26/2026,Chai Latte,Recipe,Breakfast,1.0,Serving,150,0,5.75,5,18.50,3.75,18,0,25,85
+03/26/2026,Banana,Banana,Breakfast,2.0,Each,200,0,0.60,2.20,46.20,n/a,n/a,n/a,n/a,n/a
+03/26/2026,Chuck Roast Rice Bowl,Recipe,Lunch,1.0,Serving,604,0,17.68,47.68,65.97,6.34,2,1.34,120,1300
+03/26/2026,Congee Rice Porridge W/ Chicken,Chicken,Dinner,1.0,Cup,132,0,7,13.70,24,n/a,n/a,n/a,n/a,n/a
+03/26/2026,"Taquitos, Chicken, Corn Tortillas",Taco,Dinner,5.0,Each,467,0,21.67,21.67,48.33,3.33,0,3.33,50,1016.67
+03/26/2026,Sundae shoppe ice cream crunch bars,IceCreamBar,Snacks,1.0,Each,130,0,8,1,13.50,n/a,10.50,n/a,5,22.50
+03/26/2026,"Beef Jerky, Original",Beef,Snacks,100.0,Grams,286,0,5.36,39.29,17.86,1.79,14.29,0,89.29,2392.86
+03/25/2026,Chai Latte,Recipe,Breakfast,1.0,Serving,150,0,5.75,5,18.50,3.75,18,0,25,85
+03/25/2026,Parfait Cup,Recipe,Breakfast,1.0,Serving,340,0,6.16,42.11,30.82,1.33,17.16,3.50,38.29,145.68
+03/25/2026,"Chipotle Burrito Bowl, Chicken, w/o sour cream or cheese",Chicken,Lunch,1.0,Serving,580,0,14.70,45.80,72,4,4,17.90,125,1085
+03/25/2026,Aldi - Wild Caught Pink Salmon,Fish,Dinner,6.0,Ounces,210,0,7.50,34.50,0,1.50,0,0,75,127.50
+03/25/2026,Congee Rice Porridge W/ Chicken,Chicken,Dinner,2.0,Cups,264,0,14,27.40,48,n/a,n/a,n/a,n/a,n/a
+03/25/2026,"Beef Jerky, Original",Beef,Snacks,100.0,Grams,286,0,5.36,39.29,17.86,1.79,14.29,0,89.29,2392.86
+03/25/2026,Oreos Cookie,Cookie,Snacks,10.0,Pieces,700,0,n/a,10,170,n/a,140,10,0,900
+03/24/2026,Chai Latte,Recipe,Breakfast,1.0,Serving,150,0,5.75,5,18.50,3.75,18,0,25,85
+03/24/2026,Parfait Cup,Recipe,Breakfast,1.0,Serving,340,0,6.16,42.11,30.82,1.33,17.16,3.50,38.29,145.68
+03/24/2026,"Sandwich, Sub, Italian Night Club #9",SubSandwich,Lunch,1.0,Each,951,0,51,44,70,12,n/a,1,100,2166
+03/24/2026,Jalapeno Kettle Cooked Potato Chips,PotatoChip,Lunch,28.0,Grams,148,0,8.89,1.98,14.82,2.47,0,0.99,0,128.40
+03/24/2026,Burger 80/20,HamburgerPatty,Dinner,1.0,Serving,380,0,30,26,0,11,0,0,105,100
+03/24/2026,Brioche Bun,Roll,Dinner,1.0,Each,160,0,3,5,29,1,5,1,15,250
+03/24/2026,Extra Crispy Restaurant Fries,FrenchFries,Dinner,3.0,Ounces,160,0,6,n/a,26,n/a,n/a,2,n/a,380
+03/24/2026,Creatine Gummies (5 gummies=5g creatine),GummyBear,Snacks,1.0,Serving,50,0,n/a,n/a,10,n/a,10,n/a,n/a,50
+03/24/2026,Sundae shoppe ice cream crunch bars,IceCreamBar,Snacks,1.0,Each,130,0,8,1,13.50,n/a,10.50,n/a,5,22.50
+03/24/2026,"Beef Jerky, Original",Beef,Snacks,150.0,Grams,429,0,8.4,58.93,26.79,2.68,21.43,0,133.93,3589.29
+03/23/2026,Chai Latte,Recipe,Breakfast,1.0,Serving,150,0,5.75,5,18.50,3.75,18,0,25,85
+03/23/2026,Parfait Cup,Recipe,Breakfast,1.0,Serving,340,0,6.16,42.11,30.82,1.33,17.16,3.50,38.29,145.68
+03/23/2026,Chips and Salsa,TortillaChip,Lunch,1.0,Serving,200,0,19,5,49,n/a,n/a,n/a,n/a,n/a
+03/23/2026,"Rice, Bowls, Chicken",Chicken,Lunch,2.0,Each,318,0,14,48,0,6,0,0,138,480
+03/23/2026,Burger 80/20,HamburgerPatty,Dinner,1.0,Serving,380,0,30,26,0,11,0,0,105,100
+03/23/2026,Brioche Bun,Roll,Dinner,1.0,Each,160,0,3,5,29,1,5,1,15,250
+03/23/2026,Jalapeno Kettle Cooked Potato Chips,PotatoChip,Dinner,28.0,Grams,148,0,8.89,1.98,14.82,2.47,0,0.99,0,128.40
+03/23/2026,"Crackers, Ritz",Cracker,Dinner,15.0,Each,236,0,11.14,3.47,30.48,2.62,3.91,1.10,0,423.36
+03/23/2026,"Soup, Noodle, Chicken Flavor, Ramen",Soup,Dinner,1.0,Package,380,0,14,10,52,7,0,2,0,1560
+03/23/2026,Creatine Gummies (5 gummies=5g creatine),GummyBear,Snacks,1.0,Serving,50,0,n/a,n/a,10,n/a,10,n/a,n/a,50
+03/23/2026,Sundae shoppe ice cream crunch bars,IceCreamBar,Snacks,1.0,Each,130,0,8,1,13.50,n/a,10.50,n/a,5,22.50
+03/23/2026,"Beef Stick, Original Grass Fed",Beef,Snacks,1.0,Serving,100,0,6,10,0,3,0,0,30,360
+03/26/2026,HealthKit Workout,HealthkitExercise,Exercise,58,minutes,-312.0,0
+03/26/2026,HealthKit Workout,HealthkitExercise,Exercise,27,minutes,-151.0,0
+03/23/2026,HealthKit Workout,HealthkitExercise,Exercise,28,minutes,-138.0,0
+03/23/2026,HealthKit Workout,HealthkitExercise,Exercise,49,minutes,-202.0,0
