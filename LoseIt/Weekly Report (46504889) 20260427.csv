@@ -1,0 +1,76 @@
+Date,Name,Icon,Type,Quantity,Units,Calories,Deleted,Fat (g),Protein (g),Carbohydrates (g),Saturated Fat (g),Sugars (g),Fiber (g),Cholesterol (mg),Sodium (mg)
+05/04/2026,Chai Latte,Recipe,Breakfast,1.0,Serving,150,0,5.75,5,18.50,3.75,18,0,25,85
+05/04/2026,Ground Beef Rice Bowl,Recipe,Dinner,1.0,Serving,609,0,32.31,30.67,46.56,12.32,0,2.17,106.56,374.90
+05/04/2026,Parfait Cup,Recipe,Dinner,1.0,Serving,340,0,4.50,43.77,32.48,0.50,20.48,3.50,38.29,166.41
+05/04/2026,Creatine Gummies (5 gummies=5g creatine),GummyBear,Snacks,1.0,Serving,50,0,n/a,n/a,10,n/a,10,n/a,n/a,50
+05/04/2026,"Fruit, Berry Medley, Frozen",Blackberry,Snacks,140.0,Grams,70,0,0.50,1,17,0,10,6,0,0
+05/04/2026,"Nuts, Pistachio, Salted, Dry Cooked, in Shells",Pistachio,Snacks,21.0,Grams,119,0,9.62,4.42,5.79,1.19,1.63,2.16,0,89.88
+05/03/2026,Crawfish Boiled In Shell,Lobster,Lunch,2.0,Pounds,250,0,1,18,n/a,n/a,n/a,n/a,129.33,263
+05/03/2026,Crawfish Boil Red Potatoes,Potato,Lunch,2.0,Servings,220,0,n/a,4,52,n/a,3,5,n/a,600
+05/03/2026,Broiled Bone In Blade Cut Pork Chops,PorkChop,Lunch,1.0,Serving,245,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+05/03/2026,Lime Frozen Fruit Bar,Popsicle,Snacks,1.0,Serving,80,0,0,0,20,0,20,0,0,0
+05/03/2026,Stroopwafel Vanilla Ice Cream Sandwich,IceCreamSandwich,Snacks,1.0,Serving,170,0,8,3,23,4,14,0,15,95
+05/03/2026,"Nuts, Pistachio, Salted, Dry Cooked, in Shells",Pistachio,Snacks,21.0,Grams,119,0,9.62,4.42,5.79,1.19,1.63,2.16,0,89.88
+05/02/2026,Chai Latte,Recipe,Breakfast,1.0,Serving,150,0,5.75,5,18.50,3.75,18,0,25,85
+05/02/2026,Chocolate Iced Glazed Donut,Donut,Breakfast,2.0,Each,480,0,22,6,84,n/a,n/a,n/a,n/a,n/a
+05/02/2026,Chicken Tikka Masala,Chicken,Lunch,1.0,Serving,498,0,32.20,41.30,12.20,17.90,5.90,2.70,206.30,1425.50
+05/02/2026,"White Rice, Steamed",Rice,Lunch,1.0,Cup,285,0,0,4.71,62.39,0,1.18,1.18,0,0
+05/02/2026,Chicken Tikka Masala,Chicken,Dinner,1.0,Serving,498,0,32.20,41.30,12.20,17.90,5.90,2.70,206.30,1425.50
+05/02/2026,"White Rice, Steamed",Rice,Dinner,1.0,Cup,285,0,0,4.71,62.39,0,1.18,1.18,0,0
+05/02/2026,"Nuts, Pistachio, Salted, Dry Cooked, in Shells",Pistachio,Snacks,21.0,Grams,119,0,9.62,4.42,5.79,1.19,1.63,2.16,0,89.88
+05/02/2026,Doritos Cool Ranch Chips (1 Ounce),TortillaChip,Snacks,2.0,Packages,300,0,16,4,36,2,2,2,0,380
+05/02/2026,Mini Beef Sticks,Beef,Snacks,1.0,Serving,45,0,3,4,0,1.50,0,0,15,200
+05/02/2026,Sundae shoppe ice cream crunch bars,IceCreamBar,Snacks,1.0,Each,130,0,8,1,13.50,n/a,10.50,n/a,5,22.50
+05/01/2026,Chai Latte,Recipe,Breakfast,1.0,Serving,150,0,5.75,5,18.50,3.75,18,0,25,85
+05/01/2026,Parfait Cup,Recipe,Breakfast,1.0,Serving,340,0,4.50,43.77,32.48,0.50,20.48,3.50,38.29,166.41
+05/01/2026,Fried Chicken Wings,Chicken,Lunch,6.0,Pieces,618,0,42.54,50.28,4.56,11.63,n/a,0,156,150
+05/01/2026,"Cheeseburger, Double Double",DoubleCheeseburger,Dinner,1.0,Serving,670,0,41,37,39,18,10,3,120,1440
+05/01/2026,"Nachos, Homemade",TortillaChip,Dinner,12.0,Pieces,415,0,19.20,15.20,47.36,7.12,7.76,9.12,7.20,1164
+05/01/2026,"Bun, Hot Dog, Plain",HotDogBun,Dinner,1.0,Each,120,0,1.86,4.8,21.26,0.47,2.69,0.90,0,205.97
+05/01/2026,White Claw Mango,Mango,Dinner,2.0,Servings,200,0,0,0,4,0,4,0,0,40
+05/01/2026,"Nuts, Pistachio, Salted, Dry Cooked, in Shells",Pistachio,Snacks,42.0,Grams,239,0,19.24,8.84,11.57,2.37,3.25,4.33,0,179.76
+04/30/2026,Chai Latte,Recipe,Breakfast,1.0,Serving,150,0,5.75,5,18.50,3.75,18,0,25,85
+04/30/2026,Parfait Cup,Recipe,Breakfast,1.0,Serving,340,0,4.50,43.77,32.48,0.50,20.48,3.50,38.29,166.41
+04/30/2026,Salmon Rice Bowl,Recipe,Lunch,1.0,Serving,363,0,6.67,28.36,46.56,1.34,0,2.17,50,360
+04/30/2026,Fried Chicken Wings,Chicken,Lunch,4.0,Pieces,412,0,28.36,33.52,3.4,7.76,n/a,0,104,100
+04/30/2026,"Chili, w/ Beef & Beans",StewBrown,Dinner,1.0,Serving,320,0,16,19,22,7,5,10,43,512
+04/30/2026,"Bread, Cornbread, From Mix",Cornbread,Dinner,1.0,Piece,188,0,6,4.32,28.86,1.64,0,1.44,36.60,466.80
+04/30/2026,"Nuts, Pistachio, Salted, Dry Cooked, in Shells",Pistachio,Snacks,42.0,Grams,239,0,19.24,8.84,11.57,2.37,3.25,4.33,0,179.76
+04/30/2026,Peanut Butter Dates,Peanut,Snacks,2.0,Pieces,120,0,2.67,2.67,21.33,0.33,18,2.67,0,82
+04/30/2026,Sundae shoppe ice cream crunch bars,IceCreamBar,Snacks,1.0,Each,130,0,8,1,13.50,n/a,10.50,n/a,5,22.50
+04/29/2026,Chai Latte,Recipe,Breakfast,1.0,Serving,150,0,5.75,5,18.50,3.75,18,0,25,85
+04/29/2026,Parfait Cup,Recipe,Breakfast,1.0,Serving,340,0,4.50,43.77,32.48,0.50,20.48,3.50,38.29,166.41
+04/29/2026,Salmon Rice Bowl,Recipe,Lunch,1.0,Serving,363,0,6.67,28.36,46.56,1.34,0,2.17,50,360
+04/29/2026,Chicken Thighs Grilled,ChickenGrilled,Dinner,2.0,Pieces,636,0,40,64,0,12,0,0,364,280
+04/29/2026,Petite Potatoes With Herbs De Provence,Potato,Dinner,1.0,Cup,160,0,0,4,36,0,2,4,0,160
+04/29/2026,Broccolini,Broccoli,Dinner,6.0,Pieces,26,0,0,2.25,4.50,0,1.50,0.75,0,18.75
+04/29/2026,"Nuts, Pistachio, Salted, Dry Cooked, in Shells",Pistachio,Snacks,42.0,Grams,239,0,19.24,8.84,11.57,2.37,3.25,4.33,0,179.76
+04/29/2026,Peanut Butter Dates,Peanut,Snacks,4.0,Pieces,240,0,5.33,5.33,42.67,0.67,36,5.33,0,164
+04/29/2026,Mini Beef Sticks,Beef,Snacks,2.0,Servings,90,0,6,8,0,3,0,0,30,400
+04/29/2026,Sundae shoppe ice cream crunch bars,IceCreamBar,Snacks,1.0,Each,130,0,8,1,13.50,n/a,10.50,n/a,5,22.50
+04/28/2026,Chai Latte,Recipe,Breakfast,1.0,Serving,150,0,5.75,5,18.50,3.75,18,0,25,85
+04/28/2026,Parfait Cup,Recipe,Breakfast,1.0,Serving,340,0,4.50,43.77,32.48,0.50,20.48,3.50,38.29,166.41
+04/28/2026,Fried Chicken Wings,Chicken,Lunch,10.0,Pieces,"1,030",0,70.90,83.80,7.60,19.39,n/a,0,260,250
+04/28/2026,Chicken Tikka Masala,Chicken,Dinner,1.0,Serving,498,0,32.20,41.30,12.20,17.90,5.90,2.70,206.30,1425.50
+04/28/2026,Mini Naan Garlic Flatbread,Tortilla,Dinner,2.0,Servings,280,0,7,10,46,2,4,2,10,700
+04/28/2026,Sundae shoppe ice cream crunch bars,IceCreamBar,Snacks,1.0,Each,130,0,8,1,13.50,n/a,10.50,n/a,5,22.50
+04/28/2026,"Nuts, Pistachio, Salted, Dry Cooked, in Shells",Pistachio,Snacks,21.0,Grams,119,0,9.62,4.42,5.79,1.19,1.63,2.16,0,89.88
+04/28/2026,Peanut Butter Dates,Peanut,Snacks,4.0,Pieces,240,0,5.33,5.33,42.67,0.67,36,5.33,0,164
+04/28/2026,Turkey Sausage Snack Sticks,Sausage,Snacks,84.0,Grams,210,0,13.13,18.38,5.25,5.25,2.10,0,65.63,866.25
+04/28/2026,Baked Chips BBQ (Aldis),PotatoChip,Snacks,28.0,Grams,110,0,1.98,1.98,22,n/a,1.98,0.99,n/a,140
+04/28/2026,Creatine Gummies (5 gummies=5g creatine),GummyBear,Snacks,1.0,Serving,50,0,n/a,n/a,10,n/a,10,n/a,n/a,50
+04/27/2026,Chai Latte,Recipe,Breakfast,1.0,Serving,150,0,5.75,5,18.50,3.75,18,0,25,85
+04/27/2026,Parfait Cup,Recipe,Breakfast,1.0,Serving,340,0,4.50,43.77,32.48,0.50,20.48,3.50,38.29,166.41
+04/27/2026,"Wrap, Greek Chicken",Wrap,Lunch,1.0,Serving,580,0,27,29,54,n/a,n/a,n/a,n/a,n/a
+04/27/2026,Feta Fries,FrenchFries,Lunch,1.0,Serving,250,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+04/27/2026,Beef Brisket Pho,Soup,Dinner,1.0,Serving,705,0,24,43,78,7.10,14,5.40,108,n/a
+04/27/2026,Grilled Chicken,Chicken,Dinner,6.0,Ounces,180,0,1.50,39,0,0,0,0,97.50,112.50
+04/27/2026,Dried Mango Slices,Mango,Snacks,4.0,Slices,140,0,0,1,35,0,27,2,0,65
+04/27/2026,"Fig Bar, Blueberry",Bar,Snacks,1.0,Piece,100,0,2.50,2,20,0,10,2,0,35
+04/27/2026,Sundae shoppe ice cream crunch bars,IceCreamBar,Snacks,1.0,Each,130,0,8,1,13.50,n/a,10.50,n/a,5,22.50
+04/27/2026,Peanut Butter Dates,Peanut,Snacks,2.0,Pieces,120,0,2.67,2.67,21.33,0.33,18,2.67,0,82
+05/04/2026,Running,Running,Exercise,27,minutes,-300.956,0
+04/30/2026,HealthKit Workout,HealthkitExercise,Exercise,58,minutes,-249.0,0
+04/29/2026,HealthKit Workout,HealthkitExercise,Exercise,30,minutes,-327.0,0
+04/28/2026,HealthKit Workout,HealthkitExercise,Exercise,54,minutes,-212.0,0
+04/27/2026,HealthKit Workout,HealthkitExercise,Exercise,33,minutes,-407.0,0

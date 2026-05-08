@@ -1,0 +1,54 @@
+Date,Name,Icon,Type,Quantity,Units,Calories,Deleted,Fat (g),Protein (g),Carbohydrates (g),Saturated Fat (g),Sugars (g),Fiber (g),Cholesterol (mg),Sodium (mg)
+04/13/2026,Chai Latte,Recipe,Breakfast,1.0,Serving,150,0,5.75,5,18.50,3.75,18,0,25,85
+04/13/2026,Parfait Cup,Recipe,Breakfast,1.0,Serving,340,0,6.16,42.11,30.82,1.33,17.16,3.50,38.29,145.68
+04/13/2026,"Chicken, Hibachi, Lunch Portion",StirFry,Dinner,2.0,Each,400,0,16,64,2,6,n/a,n/a,n/a,180
+04/13/2026,Creatine Gummies (5 gummies=5g creatine),GummyBear,Snacks,1.0,Serving,50,0,n/a,n/a,10,n/a,10,n/a,n/a,50
+04/13/2026,Sundae shoppe ice cream crunch bars,IceCreamBar,Snacks,1.0,Each,130,0,8,1,13.50,n/a,10.50,n/a,5,22.50
+04/12/2026,Chai Latte,Recipe,Breakfast,1.0,Serving,150,0,5.75,5,18.50,3.75,18,0,25,85
+04/12/2026,Grilled Beef Spring Rolls,EggRoll,Lunch,2.0,Servings,642,0,12,62,66,4,n/a,1.80,98,840
+04/12/2026,Grilled Beef Spring Rolls,EggRoll,Dinner,2.0,Servings,642,0,12,62,66,4,n/a,1.80,98,840
+04/12/2026,"Nuts, Pistachio, Salted, Dry Cooked, in Shells",Pistachio,Snacks,63.0,Grams,358,0,28.87,13.26,17.36,3.56,4.88,6.49,0,269.64
+04/12/2026,"Beef Jerky, Original",Beef,Snacks,200.0,Grams,571,0,10.71,78.57,35.71,3.57,28.57,0,178.57,4785.71
+04/11/2026,Chai Latte,Recipe,Breakfast,1.0,Serving,150,0,5.75,5,18.50,3.75,18,0,25,85
+04/11/2026,Parfait Cup,Recipe,Breakfast,1.0,Serving,340,0,6.16,42.11,30.82,1.33,17.16,3.50,38.29,145.68
+04/11/2026,Aldi - Wild Caught Pink Salmon,Fish,Lunch,6.0,Ounces,210,0,7.50,34.50,0,1.50,0,0,75,127.50
+04/11/2026,"White Rice, Steamed",Rice,Lunch,1.0,Cup,285,0,0,4.71,62.39,0,1.18,1.18,0,0
+04/11/2026,"Chicken, Hibachi, Lunch Portion",StirFry,Dinner,3.0,Each,600,0,24,96,3,9,n/a,n/a,n/a,270
+04/11/2026,Sundae shoppe ice cream crunch bars,IceCreamBar,Snacks,2.0,Each,260,0,16,2,27,n/a,21,n/a,10,45
+04/11/2026,Sea Salt & Vinegar Kettle Chips,PotatoChip,Snacks,28.0,Grams,150,0,8,1,17,0.50,1,1,0,160
+04/10/2026,Chai Latte,Recipe,Breakfast,1.0,Serving,150,0,5.75,5,18.50,3.75,18,0,25,85
+04/10/2026,Parfait Cup,Recipe,Breakfast,1.0,Serving,340,0,6.16,42.11,30.82,1.33,17.16,3.50,38.29,145.68
+04/10/2026,"Boneless Wings, Lemon Pepper",Chicken,Lunch,2.0,Pieces,210,0,13,33,n/a,n/a,n/a,9,n/a,796
+04/10/2026,"Regular Wing, Lemon Pepper",Chicken,Lunch,4.0,Pieces,360,0,26,30,2,6,0,0,n/a,n/a
+04/10/2026,"Boneless Wings, Lemon Pepper",Chicken,Dinner,2.0,Pieces,210,0,13,33,n/a,n/a,n/a,9,n/a,796
+04/10/2026,"Regular Wing, Lemon Pepper",Chicken,Dinner,4.0,Pieces,360,0,26,30,2,6,0,0,n/a,n/a
+04/10/2026,Sundae shoppe ice cream crunch bars,IceCreamBar,Snacks,1.0,Each,130,0,8,1,13.50,n/a,10.50,n/a,5,22.50
+04/10/2026,"Pretzel Crisps, Garlic Parmesan",Pretzel,Snacks,56.0,Grams,220,0,3,4,44,0,4,2,0,680
+04/10/2026,Sea Salt & Vinegar Kettle Chips,PotatoChip,Snacks,28.0,Grams,150,0,8,1,17,0.50,1,1,0,160
+04/09/2026,Ham And Swiss Crossant,Croissant,Breakfast,1.0,Serving,320,0,17,14,28,9,5,1,65,490
+04/09/2026,Chicken Kebob Feast Potatoes And Greek Salad,Chicken,Lunch,1.0,Each,640,0,35,52,n/a,14,n/a,5,140,1590
+04/09/2026,Classic Bone-In Wingstop BBQ,ChickenWing,Dinner,3.0,Servings,300,0,15,30,12,4.50,9,0,135,450
+04/09/2026,Sundae shoppe ice cream crunch bars,IceCreamBar,Snacks,1.0,Each,130,0,8,1,13.50,n/a,10.50,n/a,5,22.50
+04/08/2026,Chai Latte,Recipe,Breakfast,1.0,Serving,150,0,5.75,5,18.50,3.75,18,0,25,85
+04/08/2026,Parfait Cup,Recipe,Breakfast,1.0,Serving,340,0,6.16,42.11,30.82,1.33,17.16,3.50,38.29,145.68
+04/08/2026,Chips and Salsa,TortillaChip,Lunch,1.0,Serving,200,0,19,5,49,n/a,n/a,n/a,n/a,n/a
+04/08/2026,"Rice, Bowls, Chicken",Chicken,Lunch,2.0,Each,318,0,14,48,0,6,0,0,138,480
+04/08/2026,Chips and Salsa,TortillaChip,Dinner,1.0,Serving,200,0,19,5,49,n/a,n/a,n/a,n/a,n/a
+04/08/2026,Margarita on the Rocks,Alcohol,Dinner,8.0,Fluid ounces,303,0,0,n/a,n/a,0,n/a,0,0,n/a
+04/08/2026,Whiskey and Coke,Alcohol,Snacks,6.0,Servings,300,0,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+04/07/2026,Chai Latte,Recipe,Breakfast,1.0,Serving,150,0,5.75,5,18.50,3.75,18,0,25,85
+04/07/2026,Parfait Cup,Recipe,Breakfast,1.0,Serving,340,0,6.16,42.11,30.82,1.33,17.16,3.50,38.29,145.68
+04/07/2026,Ground Beef Rice Bowl,Recipe,Lunch,1.0,Serving,609,0,32.31,30.67,46.56,12.32,0,2.17,106.56,374.90
+04/07/2026,"Stuffing, From Mix",Stuffing,Dinner,0.5,Cup,177,0,8.60,3.20,21.70,1.73,2.11,2.90,0,543
+04/07/2026,grilled chicken bites,Chicken,Dinner,3.0,Ounces,127,0,4.5,20.25,1.74,1.16,0,0,66.53,3.47
+04/07/2026,"Chips, Potato, Cheddar & Sour Cream",PotatoChip,Dinner,48.0,Grams,274,0,17.14,3.43,25.71,2.57,1.71,1.71,0,308.57
+04/07/2026,Sundae shoppe ice cream crunch bars,IceCreamBar,Snacks,1.0,Each,130,0,8,1,13.50,n/a,10.50,n/a,5,22.50
+04/06/2026,Chai Latte,Recipe,Breakfast,1.0,Serving,150,0,5.75,5,18.50,3.75,18,0,25,85
+04/06/2026,Parfait Cup,Recipe,Breakfast,1.0,Serving,340,0,6.16,42.11,30.82,1.33,17.16,3.50,38.29,145.68
+04/06/2026,Ground Beef Rice Bowl,Recipe,Lunch,1.0,Serving,609,0,32.31,30.67,46.56,12.32,0,2.17,106.56,374.90
+04/06/2026,"Bread, Pita, White",Tortilla,Dinner,2.0,Each,330,0,1.44,10.92,66.84,0.19,1.56,2.64,0,643.20
+04/06/2026,grilled chicken bites,Chicken,Dinner,6.0,Ounces,255,0,8.10,40.50,3.47,2.31,0,0,133.7,6.94
+04/06/2026,"Chips, Potato, Cheddar & Sour Cream",PotatoChip,Dinner,48.0,Grams,274,0,17.14,3.43,25.71,2.57,1.71,1.71,0,308.57
+04/06/2026,Sundae shoppe ice cream crunch bars,IceCreamBar,Snacks,1.0,Each,130,0,8,1,13.50,n/a,10.50,n/a,5,22.50
+04/06/2026,Mango,Mango,Snacks,0.25,Each,34,0,0.14,0.27,8.84,0.3,7.70,0.94,0,1.4
+04/13/2026,Running,Running,Exercise,27,minutes,-302.967,0

@@ -1,0 +1,76 @@
+Date,Name,Icon,Type,Quantity,Units,Calories,Deleted,Fat (g),Protein (g),Carbohydrates (g),Saturated Fat (g),Sugars (g),Fiber (g),Cholesterol (mg),Sodium (mg)
+04/20/2026,Chai Latte,Recipe,Breakfast,1.0,Serving,150,0,5.75,5,18.50,3.75,18,0,25,85
+04/20/2026,Parfait Cup,Recipe,Breakfast,1.0,Serving,340,0,6.16,42.11,30.82,1.33,17.16,3.50,38.29,145.68
+04/20/2026,Classic Bone-In Wingstop BBQ,ChickenWing,Lunch,2.0,Servings,200,0,10,20,8,3,6,0,90,300
+04/20/2026,"Regular Wing, Lemon Pepper",Chicken,Lunch,4.0,Pieces,360,0,26,30,2,6,0,0,n/a,n/a
+04/20/2026,"French Fries, Seasoned",FrenchFries,Dinner,146.0,Grams,240,0,8.58,3.43,32.62,0,1.72,3.43,0,566.50
+04/20/2026,Ribeye Steak,Beef,Dinner,8.0,Ounces,560,0,40,44,0,n/a,n/a,n/a,n/a,n/a
+04/20/2026,Creatine Gummies (5 gummies=5g creatine),GummyBear,Snacks,1.0,Serving,50,0,n/a,n/a,10,n/a,10,n/a,n/a,50
+04/20/2026,"Fruit, Berry Medley, Frozen",Blackberry,Snacks,140.0,Grams,70,0,0.50,1,17,0,10,6,0,0
+04/20/2026,"Kiwi, Small",Kiwi,Snacks,148.0,Grams,100,0,n/a,2,24,n/a,16,4,n/a,n/a
+04/19/2026,Chai Latte,Recipe,Breakfast,1.0,Serving,150,0,5.75,5,18.50,3.75,18,0,25,85
+04/19/2026,Vietnamese Crepe,EggRoll,Lunch,3.0,Servings,741,0,30,45,75,n/a,n/a,n/a,n/a,n/a
+04/19/2026,Ribeye Steak,Beef,Dinner,8.0,Ounces,560,0,40,44,0,n/a,n/a,n/a,n/a,n/a
+04/19/2026,"White Rice, Steamed",Rice,Dinner,0.5,Cup,142,0,0,2.35,31.20,0,0.59,0.59,0,0
+04/19/2026,"Pretzels, Mini",Pretzel,Snacks,2.0,Servings,220,0,0,6,50,0,1,1,0,500
+04/19/2026,Turkey Sausage Snack Sticks,Sausage,Snacks,42.0,Grams,105,0,6.56,9.19,2.63,2.63,1.5,0,32.81,433.13
+04/19/2026,Oreos Cookie,Cookie,Snacks,8.0,Pieces,560,0,n/a,8,136,n/a,112,8,0,720
+04/18/2026,Chai Latte,Recipe,Breakfast,1.0,Serving,150,0,5.75,5,18.50,3.75,18,0,25,85
+04/18/2026,Parfait Cup,Recipe,Breakfast,1.0,Serving,340,0,6.16,42.11,30.82,1.33,17.16,3.50,38.29,145.68
+04/18/2026,Chinese Buffett,Default,Lunch,2.0,Servings,"1,000",0,32,30,n/a,n/a,n/a,n/a,n/a,n/a
+04/18/2026,Pesto Pasta,Pasta,Dinner,3.0,Servings,525,0,30,30,174,n/a,6,9,n/a,3
+04/18/2026,"Kiwi, Small",Kiwi,Snacks,148.0,Grams,100,0,n/a,2,24,n/a,16,4,n/a,n/a
+04/18/2026,"Pretzels, Mini",Pretzel,Snacks,1.0,Serving,110,0,0,3,25,0,0.50,0.50,0,250
+04/18/2026,Sundae shoppe ice cream crunch bars,IceCreamBar,Snacks,1.0,Each,130,0,8,1,13.50,n/a,10.50,n/a,5,22.50
+04/18/2026,Turkey Sausage Snack Sticks,Sausage,Snacks,63.0,Grams,158,0,9.84,13.78,3.94,3.94,1.57,0,49.22,649.69
+04/17/2026,Chai Latte,Recipe,Breakfast,1.0,Serving,150,0,5.75,5,18.50,3.75,18,0,25,85
+04/17/2026,Parfait Cup,Recipe,Breakfast,1.0,Serving,340,0,6.16,42.11,30.82,1.33,17.16,3.50,38.29,145.68
+04/17/2026,Ground Beef Rice Bowl,Recipe,Lunch,1.0,Serving,609,0,32.31,30.67,46.56,12.32,0,2.17,106.56,374.90
+04/17/2026,"Ground Beef, Taco Meat",Beef,Dinner,1.0,Cup,330,0,14,48,4,5,0,2,130,1060
+04/17/2026,"Chips, Tortilla, Restaurant Style, Original",TortillaChip,Dinner,28.0,Each,560,0,28,8,76,4,0,4,0,460
+04/17/2026,"Kiwi, Small",Kiwi,Snacks,148.0,Grams,100,0,n/a,2,24,n/a,16,4,n/a,n/a
+04/17/2026,Sundae shoppe ice cream crunch bars,IceCreamBar,Snacks,2.0,Each,260,0,16,2,27,n/a,21,n/a,10,45
+04/17/2026,"Beef Jerky, Original",Beef,Snacks,100.0,Grams,286,0,5.36,39.29,17.86,1.79,14.29,0,89.29,2392.86
+04/17/2026,"Nuts, Pistachio, Salted, Dry Cooked, in Shells",Pistachio,Snacks,21.0,Grams,119,0,9.62,4.42,5.79,1.19,1.63,2.16,0,89.88
+04/17/2026,"Pretzels, Mini",Pretzel,Snacks,1.0,Serving,110,0,0,3,25,0,0.50,0.50,0,250
+04/16/2026,Chai Latte,Recipe,Breakfast,1.0,Serving,150,0,5.75,5,18.50,3.75,18,0,25,85
+04/16/2026,Ground Beef Rice Bowl,Recipe,Lunch,1.0,Serving,609,0,32.31,30.67,46.56,12.32,0,2.17,106.56,374.90
+04/16/2026,Hard Shell Beef Tacos,Taco,Dinner,6.0,Servings,600,0,27,51,21,n/a,3,15,30,450
+04/16/2026,Sundae shoppe ice cream crunch bars,IceCreamBar,Snacks,1.0,Each,130,0,8,1,13.50,n/a,10.50,n/a,5,22.50
+04/16/2026,"Nuts, Pistachio, Salted, Dry Cooked, in Shells",Pistachio,Snacks,42.0,Grams,239,0,19.24,8.84,11.57,2.37,3.25,4.33,0,179.76
+04/16/2026,"Beef Jerky, Original",Beef,Snacks,150.0,Grams,429,0,8.4,58.93,26.79,2.68,21.43,0,133.93,3589.29
+04/16/2026,"Fruit, Berry Medley, Frozen",Blackberry,Snacks,140.0,Grams,70,0,0.50,1,17,0,10,6,0,0
+04/16/2026,Creatine Gummies (5 gummies=5g creatine),GummyBear,Snacks,1.0,Serving,50,0,n/a,n/a,10,n/a,10,n/a,n/a,50
+04/15/2026,Chai Latte,Recipe,Breakfast,1.0,Serving,150,0,5.75,5,18.50,3.75,18,0,25,85
+04/15/2026,Parfait Cup,Recipe,Breakfast,1.0,Serving,340,0,6.16,42.11,30.82,1.33,17.16,3.50,38.29,145.68
+04/15/2026,Ground Beef Rice Bowl,Recipe,Lunch,1.0,Serving,609,0,32.31,30.67,46.56,12.32,0,2.17,106.56,374.90
+04/15/2026,"Pasta, Chicken, Creamy, Cheesy, Alfredo",Pasta,Dinner,2.0,Each,800,0,44,28,72,16,8,4,90,1940
+04/15/2026,Sundae shoppe ice cream crunch bars,IceCreamBar,Snacks,1.0,Each,130,0,8,1,13.50,n/a,10.50,n/a,5,22.50
+04/15/2026,"Beef Jerky, Original",Beef,Snacks,100.0,Grams,286,0,5.36,39.29,17.86,1.79,14.29,0,89.29,2392.86
+04/14/2026,Chai Latte,Recipe,Breakfast,1.0,Serving,150,0,5.75,5,18.50,3.75,18,0,25,85
+04/14/2026,Parfait Cup,Recipe,Breakfast,1.0,Serving,340,0,6.16,42.11,30.82,1.33,17.16,3.50,38.29,145.68
+04/14/2026,"Chicken, Hibachi, Lunch Portion",StirFry,Lunch,3.0,Each,600,0,24,96,3,9,n/a,n/a,n/a,270
+04/14/2026,Ribeye Steak,Beef,Dinner,12.0,Ounces,840,0,60,66,0,n/a,n/a,n/a,n/a,n/a
+04/14/2026,Edamame,SnapBean,Dinner,2.0,Servings,180,0,0,18,18,0,0,14,0,20
+04/14/2026,Creatine Gummies (5 gummies=5g creatine),GummyBear,Snacks,1.0,Serving,50,0,n/a,n/a,10,n/a,10,n/a,n/a,50
+04/14/2026,"Kiwi, Small",Kiwi,Snacks,148.0,Grams,100,0,n/a,2,24,n/a,16,4,n/a,n/a
+04/14/2026,Sundae shoppe ice cream crunch bars,IceCreamBar,Snacks,1.0,Each,130,0,8,1,13.50,n/a,10.50,n/a,5,22.50
+04/14/2026,"Beef Jerky, Original",Beef,Snacks,100.0,Grams,286,0,5.36,39.29,17.86,1.79,14.29,0,89.29,2392.86
+04/13/2026,Chai Latte,Recipe,Breakfast,1.0,Serving,150,0,5.75,5,18.50,3.75,18,0,25,85
+04/13/2026,Parfait Cup,Recipe,Breakfast,1.0,Serving,340,0,6.16,42.11,30.82,1.33,17.16,3.50,38.29,145.68
+04/13/2026,Burger  Double Bacon Cheeseburger,DoubleCheeseburger,Lunch,1.0,Each,832,0,49.87,67.68,24.1,19.71,7.25,2.86,227.21,916.52
+04/13/2026,Extra Crispy Restaurant Fries,FrenchFries,Lunch,4.0,Ounces,213,0,8,n/a,34.67,n/a,n/a,2.67,n/a,506.67
+04/13/2026,"Chicken, Hibachi, Lunch Portion",StirFry,Dinner,3.0,Each,600,0,24,96,3,9,n/a,n/a,n/a,270
+04/13/2026,"Fish, Alaskan Cod, Raw",Fish,Dinner,1.0,Each,90,0,1,18,0,0,0,0,40,160
+04/13/2026,Creatine Gummies (5 gummies=5g creatine),GummyBear,Snacks,1.0,Serving,50,0,n/a,n/a,10,n/a,10,n/a,n/a,50
+04/13/2026,Sundae shoppe ice cream crunch bars,IceCreamBar,Snacks,1.0,Each,130,0,8,1,13.50,n/a,10.50,n/a,5,22.50
+04/13/2026,"Kiwi, Small",Kiwi,Snacks,148.0,Grams,100,0,n/a,2,24,n/a,16,4,n/a,n/a
+04/20/2026,Running,Running,Exercise,38,minutes,-410.99,0
+04/16/2026,HealthKit Workout,HealthkitExercise,Exercise,32,minutes,-150.0,0
+04/16/2026,HealthKit Workout,HealthkitExercise,Exercise,60,minutes,-270.0,0
+04/15/2026,HealthKit Workout,HealthkitExercise,Exercise,15,minutes,-55.0,0
+04/15/2026,HealthKit Workout,HealthkitExercise,Exercise,40,minutes,-463.0,0
+04/14/2026,HealthKit Workout,HealthkitExercise,Exercise,52,minutes,-302.0,0
+04/14/2026,HealthKit Workout,HealthkitExercise,Exercise,29,minutes,-160.0,0
+04/13/2026,HealthKit Workout,HealthkitExercise,Exercise,31,minutes,-341.0,0
+04/13/2026,HealthKit Workout,HealthkitExercise,Exercise,14,minutes,-76.0,0
